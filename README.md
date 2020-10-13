@@ -36,6 +36,9 @@ Short transhumanist story from the perspective of an average person with fear of
 [17776](https://www.sbnation.com/a/17776-football) aka What Football Will Look Like in the Future (Jon Bois)
 A multimedia serial where sentient space probes watch humans who no longer age or die enjoying their unending lives.
 
+[20020](https://www.sbnation.com/secret-base/21410129/20020/)
+The sequel to 17776.
+
 [Utopia, LOL?](http://strangehorizons.com/fiction/utopia-lol/) (Jamie Wahls) [5,047]
 Transhumanist short story about a person waking up far in the post-singularity future, purposefully written with as many 2010s anachronisms as possible.
 
