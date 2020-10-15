@@ -47,3 +47,9 @@ A short story about automation's two outcomes: capitalist dystopia or transhuman
 
 [Pokemon: The Origin of Species](http://daystareld.com/pokemon/) (Damon Sasi) [~600,000+]
 Rationalist and gritty realism Pokemon universe where Pokemon counters are often lethal and legendaries are worse than natural disasters.
+
+[Ra](https://qntm.org/ra) (qntm) [~138,000]
+Serial ratfic where magic is a currently studied field of engineering, and functions as the next advancement after electricity. Received a secondary ending after many years.
+
+[SCP Antimemetics Division](http://www.scpwiki.com/antimemetics-division-hub) (qntm primarily)
+A sub-section of the SCP Foundation, this focuses on anti-memetics: things that censor themselves from the memory of others. SCP-055 and There Is No Antimemetics Division are the most recommended sections.
