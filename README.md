@@ -1,5 +1,5 @@
 # RatficList
-List of rational or transhumanist fiction and associated readings.
+List of rational or transhumanist fiction and associated readings. Square brackets are word count, given when available.
 
 
 [Three Worlds Collide](https://www.lesswrong.com/posts/HawFh7RvDM4RyoJ2d/three-worlds-collide-0-8) (Eliezer Yudkowsky) [24,990]
