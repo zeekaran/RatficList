@@ -47,6 +47,3 @@ A short story about automation's two outcomes: capitalist dystopia or transhuman
 
 [Pokemon: The Origin of Species](http://daystareld.com/pokemon/) (Damon Sasi) [~600,000+]
 Rationalist and gritty realism Pokemon universe where Pokemon counters are often lethal and legendaries are worse than natural disasters.
-
-[The Egg](http://www.galactanet.com/oneoff/theegg_mod.html) (Andy Weir)
-Very short story about gods. Not really a ratfic or transhumanist, but it's interesting.
